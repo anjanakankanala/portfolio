@@ -1,4 +1,5 @@
-# portfolio https://anjanakankanala.github.io/portfolio/
+# portfolio
+### https://anjanakankanala.github.io/portfolio/
 
 # **Hello, my name is Anjana Kankanala**
 
@@ -6,7 +7,7 @@
 
 ### This is all very new to me, so I'm excited to see where this will go. 
 
-### !(anjanakankanala/Downloads/happydog.jpeg)
+!(happydog.jpeg)
 
 
 
