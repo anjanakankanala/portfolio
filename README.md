@@ -7,7 +7,7 @@
 
 ### This is all very new to me, so I'm excited to see where this will go. 
 
-!(happydog.jpeg)
+![What I look like excited](happydog.jpeg)
 
 
 
