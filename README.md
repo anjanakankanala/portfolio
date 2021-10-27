@@ -3,7 +3,7 @@
 
 # **Hello, my name is Anjana Kankanala (She/Her)**
 
-### This portfolio is a collection of my work for my "Telling Stories with Data" class at Carnegie Mellon. 
+### This portfolio is a collection of my work for the "Telling Stories with Data" class at Carnegie Mellon. 
 
 ## About me 
 
@@ -13,7 +13,7 @@
 
 ## What I hope to learn
 
-### I an interested in the way data is shaping decisions made in the ntertainment field today, and I hope to be able to visualize data well to deliver meaningful insights to my future employers (yeah, you should definitely give me that job offer.) 
+### I am interested in the way data is shaping decisions made in the entertainment industry today. I hope to learn to visualize data well, and provide meaningful insights to my future employers (yeah, you should definitely give me that job offer.) 
 
 ## Portfolio 
 
