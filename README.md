@@ -13,7 +13,7 @@
 
 ## What I hope to learn
 
-### I am interested in the way data is shaping decisions made in the entertainment industry today. With the advent of streaming services, there's plenty of fata that companies have on their consumers. I believe that if we can analyze and interpret this data intelligently, we can learn how to be better content creators and know how to engage our audience better. I hope to learn to visualize data well, and provide meaningful insights to my future employers (yeah, you should definitely give me that job offer.) 
+### I am interested in the way data is shaping decisions made in the entertainment industry today. With the advent of streaming services, there's plenty of data that companies have on their consumers. I believe that if we can analyze and interpret this data intelligently, we can learn how to be better content creators and know how to engage our audience better. I hope to learn to visualize data well, and provide meaningful insights to my future employers (yeah, you should definitely give me that job offer.) 
 
 ## Portfolio 
 
