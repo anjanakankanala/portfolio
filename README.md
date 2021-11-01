@@ -18,14 +18,9 @@
 ## Portfolio 
 
 1. Government Debt to GDP Ratio
-
-# <iframe src="https://data.oecd.org/chart/6vt2" width="900" height="675" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vt2" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017 – 2018</a></iframe>
-
-
-
-3. Project 2
-4. Project 3 
-5. Final Project 
+2. Project 2
+3.  Project 3 
+4.  Final Project 
 
 
 
