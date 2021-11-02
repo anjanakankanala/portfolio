@@ -17,7 +17,10 @@
 
 ## Portfolio 
 
-1. Government Debt to GDP Ratio
+### 1. Government Debt to GDP Ratio
+![link](debtviz.md)
+
+
 2. Project 2
 3. Project 3 
 4. Final Project 
