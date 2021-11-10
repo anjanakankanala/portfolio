@@ -31,7 +31,7 @@
 
 ![Solution2](solution2.jpeg)
 
-### At this point, I decided that I wanted to make McDonald's my main focus, and so I colored only that and figured I would shade the rest in gray. However, the story I wanted to tell with the visualization was about how McDonald's' sales revenue was nearly the same as the other 6 companies combined. For this, I decided a tree map would be the best fit as it gives you the visual understanding that it's almost the same as the other companies combined. 
+### At this point, I decided that I wanted to make McDonald's my main focus, and so I colored only that and figured I would shade the rest in gray. However, the story I wanted to tell with the visualization was about how McDonald's' sales revenue was nearly the same as the other 6 companies combined. For this, I decided a tree map would be the best fit as it gives you the visual understanding that it's almost the same as the other companies combined. I chose to color the McDonald's portion in yellow, because it's the main color in their logo and people can associate the color with the brand. 
 
 ![Solution3](solution3.jpeg)
 
