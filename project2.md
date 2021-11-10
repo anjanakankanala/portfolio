@@ -35,5 +35,11 @@
 
 ![Solution3](solution3.jpeg)
 
+## The Final Redesign 
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7779914"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
 
 
