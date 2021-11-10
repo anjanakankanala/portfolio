@@ -21,11 +21,12 @@
 
 ## Feedback
 
-### When I showed this to people, these were the comments and suggestions that I received: 
+### When I showed this to three people, these were the main comments and suggestions that I received: 
 
 * Narrow the focus to one company/one story 
 * Don't color every company, only highlight what is imperative to your story 
 * A bar chart is boring, try something else 
+* Add a title, what is the point of the story? 
 
 ### These suggestions were interesting to me because it made me realize how conditioned I am to resorting to bar charts (which are great, but are also boring sometimes). I then tried out a bubble chart: 
 
