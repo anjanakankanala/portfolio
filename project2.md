@@ -21,7 +21,7 @@
 
 ## Feedback
 
-### When I showed this to three people, these were the main comments and suggestions that I received: 
+### I showed this to three people, and these were the main comments/suggestions that I received: 
 
 * Narrow the focus to one company/one story 
 * Don't color every company, only highlight what is imperative to your story 
