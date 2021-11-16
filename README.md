@@ -19,13 +19,14 @@
 
 ### 1. Government Debt to GDP Ratio
 
-[DebtVisualization](debtviz.md)
+[Debt Visualization](debtviz.md)
 
 ### 2. Project 2
 
-[Project2](project2.md)
+[Go to Project](project2.md)
 
 3. Final Project 
+
 
 
 
