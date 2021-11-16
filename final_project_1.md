@@ -1,6 +1,9 @@
 # Final Project - Part 1
 
-## Topic 
+## Topic: 
+
+### The effect of piracy of on the sales, revenue invested, and quality of movies in India. 
+
 #### Summary:
 ##### As a reader I want to know the effect of piracy in India on the quality of films and film sales so that I can make more informed decisions on how I consume content.
 
@@ -24,11 +27,14 @@
 ##### I will then compare academy Awards by country, pre and post piracy, to show the better quality of movies in countries with lesser piracy practices. I will use data from Germany, UK, France, Mexico, Italy, and Spain. 
 
 ## Data and Sources: 
+
 ##### My preliminary data will come from the data collected by two professors - Michael Smith and Rahul Telang, from their research papers done on the subject. 
 
 [Academy Awards Data](Academy Awards Data.xlsx)
 
+##### The other data required for the visualizations are being collected. 
 
+## Medium:
 
 ##### I will be using Shorthand to deliver my final project. 
 
