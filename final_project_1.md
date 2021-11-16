@@ -12,14 +12,7 @@
 ## Data and Sources: 
 ##### My preliminary data will come from the data collected by two professors - Michael Smith and Rahul Telang, from their research papers done on the subject. 
 
-	1995 - 2006		2007 - 2014	
-	# of Award Winning Movies	Total Awards	# of Award Winning Movies	Total Awards
-Germany	22	40	10	15
-UK	27	35	33	68
-France	12	14	14	20
-Mexico	4	7	1	1
-Italy	8	10	2	2
-Spain	4	6	3	3
+[Academy Awards Data](Academy Awards Data.xlsx)
 
 ## Structure of the project: 
 
