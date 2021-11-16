@@ -25,7 +25,9 @@
 
 [Go to Project](project2.md)
 
-3. Final Project 
+### 3. Final Project 
+
+[Go to Part 1](final_project_1.md)
 
 
 
