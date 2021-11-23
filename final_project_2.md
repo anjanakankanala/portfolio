@@ -38,14 +38,43 @@ picture!
 
 ### 2000 onwards: 
 
-##### The end of the 1990s saw more stringent laws governing piracy with the amdneded Copyright Act being implemented in 1995. The number of malls in India also increased in the early 2000s, which meant more theatres got built. The anti-piracy laws and the increase in theatres acted as incentive to producers to invest more in their movies and create better content, which ultimately increased revenue, supply, and quality of movies produced in Bollywood. 
+#### The end of the 1990s saw more stringent laws governing piracy with the amdneded Copyright Act being implemented in 1995. The number of malls in India also increased in the early 2000s, which meant more theatres got built. The anti-piracy laws and the increase in theatres acted as incentive to producers to invest more in their movies and create better content, which ultimately increased revenue, supply, and quality of movies produced in Bollywood. 
 
 ## Feedback: 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+### Respondent 1: 
+
+#### Q: Is it clear and understandable? 
+#### A: Yes. I found it easy to understand and the story line was clear and smooth. 
+
+#### Q: What can I change about it? 
+#### A: The colored computer infographic is mono-chromed, maybe that can change. Also, more variations or unique kinds of charts used may be more interesting to see. 
+
+#### Q: Do you feel engaged? 
+#### A: Personally, I don't connect with the topic because I'm not familiar with movies in India. And as a consumer, I think pirating movies is fine, given that people still go to theatres anyway. I am engaged in the sense that I wanted to read anyway, and did feel engaged and wanting to know more. 
+
+#### Q: Do you understand what the call to action is?
+#### A: Don't watch pirated movies? 
+
+#### Q: Other comments/thoughts
+#### A: I don't know how large the scope of your project can be, but maybe you could have gotten more data and studied how streaming impacted films in India, because that was a huge curveball too. 
+
+### Respondent 2: 
+
+#### Q: Is it clear and understandable? 
+#### A: Yes your story has good structure. 
+
+#### Q: What can I change about it? 
+#### A: The infographics can have better titles and subheadings to explain what you're trying to convey better. If you put year on the x-axis, try not to change that and put it on the y-axis in the next graphic. 
+
+#### Q: Do you feel engaged? 
+#### A: Yes, the topic is interesting and it has a good structure to it. It would be nice to have more data and include other countries, because the data seems rather limited here. 
+
+#### Q: Do you understand what the call to action is?
+#### A: Yes, piracy reduces the number of films produced and their quality, so be mindful of the impact of watching pirated movies. 
+
+#### Q: Other comments/thoughts
+#### A: What is the color theme you're using? It might be nice to do a black-and-white theme, because it's older movies.  
 
 
 ### Sources: 
