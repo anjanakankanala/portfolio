@@ -15,7 +15,8 @@
 ##### India, is, and has been, the largest producer of movies in the world, thanks to its population of 1.3 billion people who welcome entertainment with open arms. 
 For example, n 2006, US producers made 500 movies, while India made 1000. The investment, however, is much less for Indian producers. In 2010, US filmmakers invested around $9.2 billion on 754 movies, while Indian producers invested $479 million on 1274 movies. This, however, could be due to the differences in currency and their worth, but the difference is significant nonetheless. Despite producing so many movies, the revenue that producers make in India is the lowest, wehen compared to other countries with high volume of movies produced. 
 
-!(revenue_countries.png)
+![Revenue](revenue_countries.png)
+
 
 ### The impact of piracy on revenue: 
 
