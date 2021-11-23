@@ -12,11 +12,15 @@
 * Did the quality of movies change in response to piracy? 
 * What happened after the 2000?
 
-##### India, is, and has been, the largest producer of movies in the world, thanks to its population of 1.3 billion people who welcome entertainment with open arms. 
-For example, n 2006, US producers made 500 movies, while India made 1000. The investment, however, is much less for Indian producers. In 2010, US filmmakers invested around $9.2 billion on 754 movies, while Indian producers invested $479 million on 1274 movies. This, however, could be due to the differences in currency and their worth, but the difference is significant nonetheless. Despite producing so many movies, the revenue that producers make in India is the lowest, wehen compared to other countries with high volume of movies produced. 
+##### India, is, and has been, the largest producer of movies in the world, thanks to its population of 1.3 billion people who welcome entertainment with open arms. For example, n 2006, US producers made 500 movies, while India made 1000. The investment, however, is much less for Indian producers. In 2010, US filmmakers invested around $9.2 billion on 754 movies, while Indian producers invested $479 million on 1274 movies. This, however, could be due to the differences in currency and their worth, but the difference is significant nonetheless. Despite producing so many movies, the revenue that producers make in India is the lowest, wehen compared to other countries with high volume of movies produced. 
 
 ![Revenue](revenue_countries.png)
 
+##### Before VCRs and cable television changed how Indians consumed content, movie-buffs would go to theatres to catch their dose of entertainment. Films would be screened at single-movie theatres with a capacity of a 100 to 1000, depending on the size of the theatre. Each theatre would only show 3-4 movies per day because each movie ran for 2.5 to 3 hours. In 1985, there were about 12,500 theatres in India. When the VCR was introduced in the market in India in the early 1980s, video-casette libraries began increasing, reaching 30,000 by the late 1980s (Mittal, 1985). With more disposable income to spend on entertainment, big families would pool in money and invest in a VCR, and then rent out/buy casettes of different movies. One VCR served many viewers, and so even if the overall number of VCRs in the country ware low, the number of people using the instrument was higher, especially since communal gatherings every evening were common in India at the time.  
 
 ### The impact of piracy on revenue: 
+
+##### 
+
+
 
