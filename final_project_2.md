@@ -22,19 +22,19 @@
 
 #### This portion will visualize data that shows how as a result of widespread piracy, revenue dipped during 1985-2000, and then began increasing again. 
 
-picture!
+![Chart](chart.jpeg)
 
 ### The impact of piracy on supply: 
 
 #### This portion will visualize data that shows how production of new movies reduced as a result of lowered revenues to producers. 
 
-picture!
+![Chart](chart.jpeg)
 
 ### The impact of piracy on quality of films: 
 
 #### This portion will look at the ratings of 20 famous Bollywood movies in the 1960-2000 period to show the decline in the quality of movies post-piracy as a result of lowered revenue and filmmakers not wanting to invest as much into films when the return-on-investment was low. 
 
-picture! 
+![Chart](chart.jpeg)
 
 ### 2000 onwards: 
 
@@ -79,10 +79,10 @@ picture!
 
 ### Sources: 
 
-####### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
-####### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
-####### https://www.boxofficemojo.com/year/1980/
-####### https://www.boxofficemojo.com/intl/
+###### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
+###### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
+###### https://www.boxofficemojo.com/year/1980/
+###### https://www.boxofficemojo.com/intl/
 
 
 
