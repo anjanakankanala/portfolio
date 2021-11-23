@@ -79,10 +79,10 @@ picture!
 
 ### Sources: 
 
-###### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
-###### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
-###### https://www.boxofficemojo.com/year/1980/
-###### https://www.boxofficemojo.com/intl/
+####### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
+####### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
+####### https://www.boxofficemojo.com/year/1980/
+####### https://www.boxofficemojo.com/intl/
 
 
 
