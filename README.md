@@ -28,6 +28,7 @@
 ### 3. Final Project 
 
 [Go to Part I](final_project_1.md)
+
 [Go to Part II](final_project_2.md)
 
 
