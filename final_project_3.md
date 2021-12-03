@@ -18,7 +18,9 @@
 
 [Final Project](https://carnegiemellon.shorthandstories.com/piracy/index.html)
 
-[My Github Repository](https://anjanakankanala.github.io/portfolio/)
+### Link to my repository on Github: 
+
+[Repository](https://anjanakankanala.github.io/portfolio/)
 
 ## Sources: 
 
