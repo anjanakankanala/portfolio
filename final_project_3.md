@@ -29,3 +29,6 @@
 #### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
 #### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
 #### Latest International Weekends. Box Office Mojo. (n.d.). Retrieved December 3, 2021, from https://www.boxofficemojo.com/intl/. 
+#### 2.4 million+ stunning free images to use anywhere - pixabay. (n.d.). Retrieved December 3, 2021, from https://pixabay.com/. 
+#### Pexels - free stock photos. (n.d.). Retrieved December 3, 2021, from https://www.pexels.com/. 
+#### Unsplash. (n.d.). Beautiful free images &amp; pictures. Unsplash. Retrieved December 3, 2021, from https://unsplash.com/. 
