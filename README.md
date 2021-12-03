@@ -31,6 +31,8 @@
 
 [Go to Part II](final_project_2.md)
 
+[Go to Part III](final_project_3.md)
 
+[Final Project on Shorthand](https://carnegiemellon.shorthandstories.com/piracy/index.html)
 
 
