@@ -16,4 +16,12 @@
 
 ### Here's the link to the final project on Shorthand: 
 
-[Shorthand](https://carnegiemellon.shorthandstories.com/piracy/index.html)
+[Final Project](https://carnegiemellon.shorthandstories.com/piracy/index.html)
+
+## Sources: 
+
+#### Views, B. (n.d.). Bolly Views: Collection Lyrics Reviews News. Bolly Views | Collection Lyrics Reviews News. Retrieved December 3, 2021, from https://www.bollyviewsyt.com/. 
+#### IMDb.com. (n.d.). Ratings, reviews, and where to watch the best movies &amp; TV shows. IMDb. Retrieved December 3, 2021, from https://www.imdb.com/. 
+#### Mittal, A., 1995. Cinema Industry in India: Pricing and Taxation. Indus Publishing Company, New Delhi.
+#### Telang, R., Waldfogel, J., 2018. Piracy and new product creation: A Bollywood story
+#### Latest International Weekends. Box Office Mojo. (n.d.). Retrieved December 3, 2021, from https://www.boxofficemojo.com/intl/. 
