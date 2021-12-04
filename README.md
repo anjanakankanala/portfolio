@@ -19,11 +19,11 @@
 
 ### 1. Government Debt to GDP Ratio
 
-[Debt Visualization](debtviz.md)
+[Debt Visualization](https://anjanakankanala.github.io/portfolio/debtviz.html)
 
-### 2. Project 2
+### 2. Recreating a Data Visualization
 
-[Go to Project](project2.md)
+[Go to Project](https://anjanakankanala.github.io/portfolio/project2.html)
 
 ### 3. Final Project 
 
